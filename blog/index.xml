@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Arthur Dent</title>
-    <link>https://pthiep.github.io/blog/</link>
+    <link>https://pthiep.github.io/ebunny/blog/</link>
     <description>Recent content in Blog on Arthur Dent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 25 Jun 2018 21:14:28 +0700</lastBuildDate>
     
-	<atom:link href="https://pthiep.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pthiep.github.io/ebunny/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Your New Post</title>
-      <link>https://pthiep.github.io/blog/your-new-post/</link>
+      <link>https://pthiep.github.io/ebunny/blog/your-new-post/</link>
       <pubDate>Mon, 25 Jun 2018 21:14:28 +0700</pubDate>
       
-      <guid>https://pthiep.github.io/blog/your-new-post/</guid>
+      <guid>https://pthiep.github.io/ebunny/blog/your-new-post/</guid>
       <description>Hello</description>
     </item>
     
